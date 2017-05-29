@@ -1,2 +1,2 @@
 # Rain
-learning github
+learning github easily with Daniel Schiffman
